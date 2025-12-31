@@ -1,2 +1,24 @@
-# sentiment-analysis-project
-Customer Feedback Sentiment Analysis focuses on understanding customer opinions by classifying reviews as positive or negative. The project involves cleaning text data, converting it into numerical features using TF-IDF, and training a Logistic Regression model to generate meaningful insights from customer feedback.
+# Customer Feedback Sentiment Analysis
+
+## Overview
+This project analyzes customer reviews and classifies them as positive or negative using NLP techniques.
+
+## Dataset
+Amazon Fine Food Reviews  
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+
+## Steps Performed
+- Text Cleaning
+- Feature Extraction
+- Sentiment Classification
+- Model Evaluation
+
+## Result
+The model successfully predicts customer sentiment.
